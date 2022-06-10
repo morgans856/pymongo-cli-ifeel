@@ -13,14 +13,14 @@ This application performs basic CRUD operations with data stored in a MongoDB da
 
 ## Features
 #### Ready to go:
-Command Line Interface menu
-Mood journal
-Goal setter with the ability to update the due date
-Automated MongoDB queries
+- Command Line Interface menu
+- Mood journal
+- Goal setter with the ability to update the due date
+- Automated MongoDB queries
 
 #### To-do:
-User registration and login
-Users can edit mood journals
-Users can view journal and goal history
-Users can mark goals as "completed"
+- User registration and login
+- Users can edit mood journals
+- Users can view journal and goal history
+- Users can mark goals as "completed"
 
